@@ -1,2 +1,2 @@
 # complexity
-code for learning complexity
+code for learning complexity and chaos
